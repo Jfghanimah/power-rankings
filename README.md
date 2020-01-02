@@ -2,6 +2,7 @@
 Tracking real-time performance of teams within a league
 
 ## What this project does?
+The current goal of this project is to create a system that can help track performances of teams witin a league. 
 
 ## Why this project is useful?
 
